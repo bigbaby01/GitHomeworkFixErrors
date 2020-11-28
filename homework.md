@@ -3,39 +3,38 @@
 ## Question 1
 
 What is 2 + 2?
-
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+white
 
 ## Question 3
 
 What is the  2 * 3 * 6 * 1 * 10 * 34?
 
-1322
+12240
 
 ## Question 4 
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertext Markup Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Making a website look beautiful
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
+.h1 {
 
 }
 ```
@@ -44,55 +43,53 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+A scripting language used to make websites more functional , making games etc
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
-
+allows people to work on projects together 
 ## Question 9
 
 What happens when you `fork` a repository?
-
-You delete it
+Creating a “fork” is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy.
 
 ## Question 10 
 
 What happens when you clone a repostory?
 
-It send it to a friend
+To clone a repository means to duplicate and download everything in the repository.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+Pull requests show diffs, or differences, of the content from both branches.
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
-
+By default, with no arguments, git log lists the commits made in that repository in reverse chronological orde
 ## Question 13
 
 What does it meant to "push" changes to Github?
+When you push changes, you send the committed changes in your local repository to the remote repository on GitHub.
 
-You send the changes of your local repository to Github
 
 ## Question 14
 
 What is Github?
 
-A place for us to store and share our code.
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
 
 ## Question 15
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. 
 
 ## Question 16
 
@@ -110,4 +107,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git Cheatsheet or stackoverflow
